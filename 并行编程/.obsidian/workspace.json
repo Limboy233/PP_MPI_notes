@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "5a4a47e0e45230eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb4ff4c6ca5e4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea179c697b2036f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collective Communication_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d032b1e4e6dab91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bc4a08b0a94013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc15d07528ceb667",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ff960fe126df185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0c662ade5aec839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "551fc8fb7b71e734",
+    "type": "split",
+    "children": [
+      {
+        "id": "e751f2d467938e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5111c49efea697",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Collective Communication_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a05a31006123db3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Collective Communication_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a848ee9c3b202c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "406cf1623984cdb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Collective Communication_1.md"
+              }
+            }
+          },
+          {
+            "id": "ad765e60fe29beb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ea179c697b2036f",
+  "lastOpenFiles": [
+    "Collective Communication_2.md",
+    "Dynamic Receiving with MPI Probe (and MPI Status).md",
+    "Advanced_Skill/Lec_8 IO与文件处理.md",
+    "Advanced_Skill/Lect_9_Windows.md",
+    "Advanced_Skill/lect10_并行计算中的矩阵算法.md",
+    "Application_数值积分.md",
+    "Advanced_Skill/Lec_10_inter_communicator.md",
+    "Advanced_Skill/Lec_6_通信子的建立.md",
+    "Advanced_Skill/Lec_5_数据类型建立与打包&解包.md",
+    "Advanced_Skill/Lec_7_虚拟拓扑.md",
+    "Pasted image 20240103195843.png",
+    "Pasted image 20240103195825.png",
+    "Pasted image 20240103195752.png",
+    "Advanced_Skill/Lec_4_集体运算与归约运算.md",
+    "Collective Communication_1.md",
+    "Advanced_Skill/Lec_3_点对点通讯(Immediate).md",
+    "Advanced_Skill/Context与问题集合.md",
+    "lect10_例题.md",
+    "Pasted image 20231229225906.png",
+    "Advanced_Skill/mpi40-report.pdf",
+    "image/Pasted image 20231229170254.png",
+    "Pasted image 20231229164431.png",
+    "Application_Random Walk.md",
+    "Advanced_Skill/Abramyan-MPI2.pdf",
+    "image/Pasted image 20231224165832.png",
+    "image/Pasted image 20231224160248.png",
+    "image/Pasted image 20231224022411.png",
+    "image/Pasted image 20231224022212.png",
+    "Application_MPI设计模式例子.md",
+    "OMP/Intro.md",
+    "OMP/Task_1.md",
+    "OMP/openmp_c_academy_2017.pdf",
+    "OMP/OMPTasks-2021.pdf",
+    "OMP/Task_2.md",
+    "OMP/32ошибкиOpenMP.pdf",
+    "OMP/Unconfirmed 761617.crdownload",
+    "OMP/Unconfirmed 214155.crdownload",
+    "OMP/Antonov-OpenMP.pdf",
+    "OMP/Unconfirmed 463001.crdownload",
+    "OMP/Unconfirmed 873237.crdownload",
+    "Advanced_Skill/lec_2_点对点通讯(Blocking).md",
+    "Application_Performing Parallel Rank with MPI.md",
+    "C++并行编程方法.canvas",
+    "Reduce and Allreduce.md",
+    "Groups and Communicators.md",
+    "Hello World(Mpi).md"
+  ]
+}
